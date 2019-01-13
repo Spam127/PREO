@@ -1037,10 +1037,10 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers `);
     console.log(`---------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-  client.user.setGame(`| @help | اسكندر هو الحب`,"http://twitch.tv/y04zgamer")
+  client.user.setGame(`| @help | Omar A Alsk2nder And x̲̅x̲̅_k̲̅a̲̅n̲̅e̲̅ `,"http://twitch.tv/y04zgamer")
    client.user.setStatus("dnd")
 });
 
 
 
-client.login("BOT_TOKEN");
+client.login("NTMzNjc4ODgyNDM2Njc3NjMz.Dxyxxw._I6YK1IB4xPeXi4K0YFsvExokvc");
